@@ -23,4 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 *.mp3
+*.db
+*.db-journal
 .env
